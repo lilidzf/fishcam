@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d406971b-33d0-4491-9a02-12d3e9e6b585" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1k7o4pwALigRKC2COzcmru3E8qB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ultrasound_robot/src/telcontrol/scripts/get_xy.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.finished image video">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="finished image video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FishCamera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished image video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get camera parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FishCamera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get camera parameters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.finished image video" />
+        <item itemvalue="Python.get camera parameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d406971b-33d0-4491-9a02-12d3e9e6b585" name="Default Changelist" comment="" />
+      <created>1605060802412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605060802412</updated>
+      <workItem from="1605060803498" duration="4484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="267" key="FileChooserDialogImpl" timestamp="1605062982341">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="708" y="267" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1605062982341" />
+    <state width="1789" height="285" key="GridCell.Tab.0.bottom" timestamp="1605076358027">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1789" height="285" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358027" />
+    <state width="1789" height="285" key="GridCell.Tab.0.center" timestamp="1605076358025">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1789" height="285" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358025" />
+    <state width="1789" height="285" key="GridCell.Tab.0.left" timestamp="1605076358024">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1789" height="285" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358024" />
+    <state width="1789" height="285" key="GridCell.Tab.0.right" timestamp="1605076358026">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1789" height="285" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358026" />
+    <state width="1803" height="340" key="GridCell.Tab.1.bottom" timestamp="1605076358012">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="340" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358012" />
+    <state width="1803" height="340" key="GridCell.Tab.1.center" timestamp="1605076358010">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="340" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358010" />
+    <state width="1803" height="340" key="GridCell.Tab.1.left" timestamp="1605076358008">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="340" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358008" />
+    <state width="1803" height="340" key="GridCell.Tab.1.right" timestamp="1605076358011">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="340" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1605076358011" />
+    <state x="503" y="144" key="SettingsEditor" timestamp="1605060826526">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="503" y="144" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1605060826526" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
